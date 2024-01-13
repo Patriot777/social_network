@@ -2,7 +2,7 @@
 /*
 !views.py
 !urls.py
-
+!db.sqlite3
 # Виняток для інших файлів у кореневій текі
 /*
 !.gitignore
